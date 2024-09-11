@@ -11,13 +11,13 @@ Yet another work toolkit.
 
 ## Modules (tools) & functions
 
-- TODO
+- [ ] TODO
   - list
   - status
   - schedule
-- Password
+- [ ] Password
   - Generate new
   - KV password storage
-- Notes
+- [ ] Notes
   - KV
   - Open in "editor"
